@@ -1,13 +1,169 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* navbar */
+
+nav {
+  background-color: #333;
+  padding: 1rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+a:hover, .logout:hover{
+  background-color: #555;
+  border-radius: 4px;
+}
+
+.logout{
+  background-color: #333;
+  color: white;
+  display: inline-block;
+  border: none; 
+}
+
+/* login and register */
+.login-form {
+  background-color: #1e1e1e;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: 2rem auto;
+}
+.form-name{
+  margin-bottom: 30px;
+}
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #333;
+  border-radius: 4px;
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #555;
+}
+
+.form-button {
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #6200ee;
+  color: #ffffff;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #3700b3;
+}
+
+/* Home */
+
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.welcome-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #6200ee;
+}
+
+.blog-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px;
+}
+
+.blog-item {
+  border: 1px solid #6200ee;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.blog-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.blog-content {
+  margin-bottom: 10px;
+}
+
+.blog-details {
+  font-size: 14px;
+}
+
+.blog-author,
+.blog-date {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.blog-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.like-button, .comment-button{
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  cursor: pointer;
+ margin: 5px;
+}
+
+.comment-form-container {
+  margin-top: 10px;
+}
+
+@media (min-width: 600px) {
+  .blog-item {
+    width: 48%;
+  }
+}
+
+@media (min-width: 900px) {
+  .blog-item {
+    width: 30%;
+  }
 }

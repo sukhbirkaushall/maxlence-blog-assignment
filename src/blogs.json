@@ -1,0 +1,544 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "content": "This is a beginner's guide to React.",
+      "author": "John Doe",
+      "date": "May 20, 2024"
+    },
+    {
+      "id": 2,
+      "title": "Advanced React Techniques",
+      "content": "Learn advanced React concepts and best practices.",
+      "author": "Jane Smith",
+      "date": "May 22, 2024"
+    },
+    {
+      "id": 3,
+      "title": "Mastering CSS Grid",
+      "content": "Discover the power of CSS Grid for layout design.",
+      "author": "Alice Johnson",
+      "date": "May 25, 2024"
+    },
+    {
+      "id": 4,
+      "title": "Building RESTful APIs with Node.js",
+      "content": "Learn how to build RESTful APIs using Node.js and Express.",
+      "author": "Bob Williams",
+      "date": "May 28, 2024"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Promises Explained",
+      "content": "Understand JavaScript promises and asynchronous programming.",
+      "author": "Emily Brown",
+      "date": "June 1, 2024"
+    },
+    {
+      "id": 6,
+      "title": "Getting Started with Vue.js",
+      "content": "A beginner's guide to Vue.js framework.",
+      "author": "Michael Wilson",
+      "date": "June 5, 2024"
+    },
+    {
+      "id": 7,
+      "title": "Responsive Web Design Principles",
+      "content": "Learn how to create responsive websites with CSS media queries.",
+      "author": "Sara Anderson",
+      "date": "June 10, 2024"
+    },
+    {
+      "id": 8,
+      "title": "Diving into Python",
+      "content": "An introduction to Python programming language.",
+      "author": "David Clark",
+      "date": "June 15, 2024"
+    },
+    {
+      "id": 9,
+      "title": "Understanding Docker Containers",
+      "content": "Explore Docker containers and containerization technology.",
+      "author": "Emma Taylor",
+      "date": "June 20, 2024"
+    },
+    {
+      "id": 10,
+      "title": "Getting Started with GraphQL",
+      "content": "Learn how to use GraphQL for building APIs.",
+      "author": "Chris Brown",
+      "date": "June 25, 2024"
+    },
+    {
+      "id": 11,
+      "title": "Deep Learning with TensorFlow",
+      "content": "Explore deep learning concepts with TensorFlow framework.",
+      "author": "Jessica Evans",
+      "date": "June 30, 2024"
+    },
+    {
+      "id": 12,
+      "title": "Secure Coding Practices",
+      "content": "Learn secure coding practices to prevent common vulnerabilities.",
+      "author": "Mark Johnson",
+      "date": "July 5, 2024"
+    },
+    {
+      "id": 13,
+      "title": "Introduction to Agile Methodology",
+      "content": "Understand the principles and practices of Agile software development.",
+      "author": "Laura White",
+      "date": "July 10, 2024"
+    },
+    {
+      "id": 14,
+      "title": "Building Single Page Applications with React Router",
+      "content": "Create SPAs using React Router library for navigation.",
+      "author": "Daniel Davis",
+      "date": "July 15, 2024"
+    },
+    {
+      "id": 15,
+      "title": "JavaScript ES6 Features",
+      "content": "Discover the new features introduced in ECMAScript 6 (ES6).",
+      "author": "Sophia Martinez",
+      "date": "July 20, 2024"
+    },
+    {
+      "id": 16,
+      "title": "Getting Started with MongoDB",
+      "content": "Learn the basics of MongoDB database management system.",
+      "author": "William Taylor",
+      "date": "July 25, 2024"
+    },
+    {
+      "id": 17,
+      "title": "Securing Web Applications with HTTPS",
+      "content": "Implement HTTPS to secure web applications and data communication.",
+      "author": "Olivia Brown",
+      "date": "July 30, 2024"
+    },
+    {
+      "id": 18,
+      "title": "Introduction to Responsive Typography",
+      "content": "Learn how to create responsive typography for websites.",
+      "author": "Noah Johnson",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": 19,
+      "title": "Testing React Applications with Jest",
+      "content": "Write unit and integration tests for React applications using Jest.",
+      "author": "Ava Wilson",
+      "date": "August 10, 2024"
+    },
+    {
+      "id": 20,
+      "title": "Building Microservices with Spring Boot",
+      "content": "Create microservices-based applications with Spring Boot framework.",
+      "author": "Ethan Thompson",
+      "date": "August 15, 2024"
+    },
+    {
+      "id": 21,
+      "title": "Deploying React Apps on AWS",
+      "content": "Deploy React applications on Amazon Web Services (AWS) cloud platform.",
+      "author": "Chloe Anderson",
+      "date": "August 20, 2024"
+    },
+    {
+      "id": 22,
+      "title": "JavaScript Design Patterns",
+      "content": "Learn common design patterns and best practices in JavaScript.",
+      "author": "Henry Miller",
+      "date": "August 25, 2024"
+    },
+    {
+      "id": 23,
+      "title": "Introduction to Data Structures",
+      "content": "Learn about basic data structures like arrays, linked lists, and trees.",
+      "author": "Liam Harris",
+      "date": "August 30, 2024"
+    },
+    {
+      "id": 24,
+      "title": "Understanding OAuth 2.0",
+      "content": "Explore OAuth 2.0 protocol for user authentication and authorization.",
+      "author": "Charlotte Young",
+      "date": "September 5, 2024"
+    },
+    {
+      "id": 25,
+      "title": "React Native Development",
+      "content": "Build cross-platform mobile apps using React Native framework.",
+      "author": "Mia Turner",
+      "date": "September 10, 2024"
+    },
+    {
+      "id": 26,
+      "title": "Introduction to Docker Compose",
+      "content": "Learn how to define and run multi-container Docker applications.",
+      "author": "James Walker",
+      "date": "September 15, 2024"
+    },
+    {
+      "id": 27,
+      "title": "Web Accessibility Best Practices",
+      "content": "Ensure your websites are accessible to all users, including those with disabilities.",
+      "author": "Ella Adams",
+      "date": "September 20, 2024"
+    },
+    {
+      "id": 28,
+      "title": "Learning Redux for State Management",
+      "content": "Manage application state with Redux library for predictable state changes.",
+      "author": "Lucas Baker",
+      "date": "September 25, 2024"
+    },
+    {
+      "id": 29,
+      "title": "RESTful API Design Guidelines",
+      "content": "Follow best practices for designing RESTful APIs.",
+      "author": "Aiden Wright",
+      "date": "September 30, 2024"
+    },
+    {
+      "id": 30,
+      "title": "Introduction to GraphQL with Apollo",
+      "content": "Learn GraphQL basics and how to use Apollo Client for GraphQL queries.",
+      "author": "Amelia Hill",
+      "date": "October 5, 2024"
+    },
+    {
+      "id": 31,
+      "title": "Python Flask Framework",
+      "content": "Build web applications using Flask, a micro web framework for Python.",
+      "author": "Logan Perez",
+      "date": "October 10, 2024"
+    },
+    {
+      "id": 32,
+      "title": "CI/CD Pipeline with Jenkins",
+      "content": "Set up a Continuous Integration/Continuous Deployment pipeline with Jenkins.",
+      "author": "Harper King",
+      "date": "October 15, 2024"
+    },
+    {
+      "id": 33,
+      "title": "Authentication and Authorization in Express.js",
+      "content": "Implement authentication and authorization in Node.js applications with Express.",
+      "author": "Violet Moore",
+      "date": "October 20, 2024"
+    },
+    {
+      "id": 34,
+      "title": "Responsive Web Design with Bootstrap",
+      "content": "Use Bootstrap framework to create responsive and mobile-first websites.",
+      "author": "Bentley Hughes",
+      "date": "October 25, 2024"
+    },
+    {
+      "id": 35,
+      "title": "Understanding WebSockets",
+      "content": "Learn how to use WebSockets for real-time communication between clients and servers.",
+      "author": "Mason Rivera",
+      "date": "October 30, 2024"
+    },
+    {
+      "id": 36,
+      "title": "Scalable Microservices Architecture",
+      "content": "Design scalable microservices architecture for large-scale applications.",
+      "author": "Luna Carter",
+      "date": "November 5, 2024"
+    },
+    {
+      "id": 37,
+      "title": "Introduction to Agile Methodology",
+      "content": "Understand the principles and practices of Agile software development.",
+      "author": "Sawyer Gonzales",
+      "date": "November 10, 2024"
+    },
+    {
+      "id": 38,
+      "title": "Data Visualization with D3.js",
+      "content": "Create interactive data visualizations using D3.js library.",
+      "author": "Adrian Cooper",
+      "date": "November 15, 2024"
+    },
+    {
+      "id": 39,
+      "title": "Using Redis for Caching",
+      "content": "Implement caching in your applications using Redis in-memory data store.",
+      "author": "Willow Carter",
+      "date": "November 20, 2024"
+    },
+    {
+      "id": 40,
+      "title": "Building Real-Time Chat Applications with Socket.IO",
+      "content": "Create real-time chat applications using Socket.IO library for Node.js.",
+      "author": "Evan Adams",
+      "date": "November 25, 2024"
+    },
+    {
+      "id": 41,
+      "title": "Introduction to Kotlin Programming Language",
+      "content": "Learn the basics of Kotlin, a modern programming language for the JVM.",
+      "author": "Hazel Perez",
+      "date": "November 30, 2024"
+    },
+    {
+      "id": 42,
+      "title": "Unit Testing with JUnit",
+      "content": "Write unit tests for Java applications using JUnit framework.",
+      "author": "Logan Walker",
+      "date": "December 5, 2024"
+    },
+    {
+      "id": 43,
+      "title": "Securing APIs with JSON Web Tokens (JWT)",
+      "content": "Implement JWT-based authentication and authorization for APIs.",
+      "author": "Aria Collins",
+      "date": "December 10, 2024"
+    },
+    {
+      "id": 44,
+      "title": "Exploring PostgreSQL Database",
+      "content": "Learn about PostgreSQL, an open-source relational database management system.",
+      "author": "Sage Lee",
+      "date": "December 15, 2024"
+    },
+    {
+      "id": 45,
+      "title": "Vue.js State Management with Vuex",
+      "content": "Manage application state in Vue.js applications using Vuex library.",
+      "author": "Piper Martin",
+      "date": "December 20, 2024"
+    },
+    {
+      "id": 46,
+      "title": "Introduction to AWS Lambda",
+      "content": "Get started with AWS Lambda, a serverless computing service by Amazon Web Services.",
+      "author": "Zane Stewart",
+      "date": "December 25, 2024"
+    },
+    {
+      "id": 47,
+      "title": "Creating REST APIs with Django Rest Framework",
+      "content": "Build RESTful APIs using Django Rest Framework, a powerful toolkit for Django.",
+      "author": "River Barnes",
+      "date": "December 30, 2024"
+    },
+    {
+      "id": 48,
+      "title": "GraphQL Server with Apollo Server",
+      "content": "Create a GraphQL server using Apollo Server, a GraphQL server library for Node.js.",
+      "author": "Skyler Mitchell",
+      "date": "January 5, 2025"
+    },
+    {
+      "id": 49,
+      "title": "Data Structures and Algorithms in JavaScript",
+      "content": "Learn essential data structures and algorithms concepts using JavaScript.",
+      "author": "Rowan Scott",
+      "date": "January 10, 2025"
+    },
+    {
+      "id": 50,
+      "title": "React Hooks: A Deep Dive",
+      "content": "Explore React Hooks and how they change the way we write React components.",
+      "author": "Avery Hall",
+      "date": "January 15, 2025"
+    },
+    {
+      "id": 51,
+      "title": "Diving into MongoDB",
+      "content": "A comprehensive guide to MongoDB, a NoSQL database program.",
+      "author": "Ezra Reed",
+      "date": "January 20, 2025"
+    },
+    {
+      "id": 52,
+      "title": "Building Real-Time Applications with React and Socket.IO",
+      "content": "Learn how to build real-time applications using React and Socket.IO.",
+      "author": "Aiden Roberts",
+      "date": "January 25, 2025"
+    },
+    {
+      "id": 53,
+      "title": "Introduction to TypeScript",
+      "content": "Learn TypeScript, a typed superset of JavaScript that compiles to plain JavaScript.",
+      "author": "Brooklyn King",
+      "date": "January 30, 2025"
+    },
+    {
+      "id": 54,
+      "title": "Automated Testing with Selenium WebDriver",
+      "content": "Write automated tests for web applications using Selenium WebDriver.",
+      "author": "Amaya Price",
+      "date": "February 5, 2025"
+    },
+    {
+      "id": 55,
+      "title": "Node.js REST API Development",
+      "content": "Build RESTful APIs with Node.js and Express framework for web and mobile applications.",
+      "author": "Lennon Peterson",
+      "date": "February 10, 2025"
+    },
+    {
+      "id": 56,
+      "title": "Building Scalable Web Applications with Django",
+      "content": "Create scalable web applications using Django framework.",
+      "author": "Finley Mitchell",
+      "date": "February 15, 2025"
+    },
+    {
+      "id": 57,
+      "title": "Introduction to Vue 3",
+      "content": "Explore the new features and improvements in Vue.js version 3.",
+      "author": "Riley Turner",
+      "date": "February 20, 2025"
+    },
+    {
+      "id": 58,
+      "title": "CI/CD with GitHub Actions",
+      "content": "Automate software workflows using GitHub Actions for CI/CD.",
+      "author": "Nolan Coleman",
+      "date": "February 25, 2025"
+    },
+    {
+      "id": 59,
+      "title": "Building GraphQL APIs with Node.js and Apollo Server",
+      "content": "Create GraphQL APIs using Node.js and Apollo Server library.",
+      "author": "Cameron Henderson",
+      "date": "February 28, 2025"
+    },
+    {
+    "id": 60,
+    "title": "React Performance Optimization Techniques",
+    "content": "Optimize the performance of React applications using various techniques.",
+    "author": "Elliot Brooks",
+    "date": "March 5, 2025"
+    },
+    {
+    "id": 61,
+    "title": "Introduction to Docker Swarm",
+    "content": "Learn how to use Docker Swarm to manage a cluster of Docker hosts.",
+    "author": "Harley Cox",
+    "date": "March 10, 2025"
+    },
+    {
+    "id": 62,
+    "title": "Working with WebSockets in Node.js",
+    "content": "Implement WebSockets in Node.js applications for real-time communication.",
+    "author": "Aria Bell",
+    "date": "March 15, 2025"
+    },
+    {
+    "id": 63,
+    "title": "Getting Started with Amazon S3",
+    "content": "Learn the basics of Amazon Simple Storage Service (S3) for storing and retrieving data.",
+    "author": "Lincoln Morgan",
+    "date": "March 20, 2025"
+    },
+    {
+    "id": 64,
+    "title": "React Native Navigation",
+    "content": "Explore different navigation solutions for React Native applications.",
+    "author": "Callie Richardson",
+    "date": "March 25, 2025"
+    },
+    {
+    "id": 65,
+    "title": "Developing APIs with FastAPI",
+    "content": "Build fast and modern APIs with FastAPI, a Python web framework.",
+    "author": "Maddox White",
+    "date": "March 30, 2025"
+    },
+    {
+    "id": 66,
+    "title": "Deploying Flask Applications on Heroku",
+    "content": "Deploy Flask web applications to Heroku cloud platform.",
+    "author": "Sawyer Hayes",
+    "date": "April 5, 2025"
+    },
+    {
+    "id": 67,
+    "title": "React Native UI Design",
+    "content": "Design beautiful user interfaces for React Native applications.",
+    "author": "Emerson Turner",
+    "date": "April 10, 2025"
+    },
+    {
+    "id": 68,
+    "title": "Using PostgreSQL with Node.js",
+    "content": "Integrate PostgreSQL database with Node.js applications using pg library.",
+    "author": "Elle Peterson",
+    "date": "April 15, 2025"
+    },
+    {
+    "id": 69,
+    "title": "Introduction to Machine Learning",
+    "content": "Learn the basics of machine learning and its applications.",
+    "author": "Phoenix Baker",
+    "date": "April 20, 2025"
+    },
+    {
+    "id": 70,
+    "title": "GraphQL Server with Prisma",
+    "content": "Create a GraphQL server using Prisma, a powerful ORM for Node.js and TypeScript.",
+    "author": "Jayden Russell",
+    "date": "April 25, 2025"
+    },
+    {
+    "id": 71,
+    "title": "React Context API",
+    "content": "Manage global state in React applications using the Context API.",
+    "author": "Ayla Foster",
+    "date": "April 30, 2025"
+    },
+    {
+    "id": 72,
+    "title": "Introduction to Google Cloud Platform (GCP)",
+    "content": "Get started with Google Cloud Platform services for cloud computing and storage.",
+    "author": "Zara Gray",
+    "date": "May 5, 2025"
+    },
+    {
+    "id": 73,
+    "title": "Building Real-Time Chat Apps with Firebase",
+    "content": "Develop real-time chat applications using Firebase Realtime Database and Cloud Firestore.",
+    "author": "Ellis Wright",
+    "date": "May 10, 2025"
+    },
+    {
+    "id": 74,
+    "title": "Python Django Web Development",
+    "content": "Build web applications with Django, a high-level Python web framework.",
+    "author": "Arlo Simmons",
+    "date": "May 15, 2025"
+    },
+    {
+    "id": 75,
+    "title": "Understanding Software Design Patterns",
+    "content": "Learn common software design patterns and their implementations.",
+    "author": "Rory Walker",
+    "date": "May 20, 2025"
+    },
+    {
+    "id": 76,
+    "title": "Dockerizing Node.js Applications",
+    "content": "Containerize Node.js applications using Docker for efficient deployment.",
+    "author": "Madison Hill",
+    "date": "May 25, 2025"
+    },
+    {
+    "id": 77,
+    "title": "Introduction to Flutter Development",
+    "content": "Get started with Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "author": "Hudson Bell",
+    "date": "May 30, 2025"
+    }
+]
+  
+  
+  
